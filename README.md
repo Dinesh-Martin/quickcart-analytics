@@ -224,7 +224,8 @@ PowerBI-SQL-Project/
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+<img width="1177" height="743" alt="Screenshot 2026-08-05 140903" src="https://github.com/user-attachments/assets/330ab197-85b1-4d18-9a5b-5e591028fd1b" />
+
 
 ### Sales Analysis
 ![Sales Analysis](Screenshots/sales_analysis.png)
