@@ -1,0 +1,5 @@
+payment_id,order_id,payment_mode
+1001,101,UPI
+1002,102,Card
+1003,104,Cash
+1004,107,UPI
