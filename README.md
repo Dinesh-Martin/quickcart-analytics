@@ -198,7 +198,14 @@ The dashboard is designed to identify:
 
 # 👨‍💻 Author
 
-**Dinesh**
+**Dinesh D M**
+
+**Student ID:** AF05238595  
+**Organization:** Anudip Foundation  
+**Course:** Data and Business Analyst with AI  
+**Branch:** TNJPM  
+**Batch:** ANP-D3676  
+
 
 **Skills:** SQL • Microsoft SQL Server • Power BI • DAX • Power Query • Data Analysis • Data Visualization • Business Intelligence
 
