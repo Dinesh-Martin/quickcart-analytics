@@ -201,7 +201,7 @@ The dashboard is designed to identify:
 **Dinesh D M**
 
 **Student ID:** AF05238595  
-**Organization:** Anudip Foundation  
+**Organization:** Anudip Foundation (Pallavarm)
 **Course:** Data and Business Analyst with AI  
 **Branch:** TNJPM  
 **Batch:** ANP-D3676  
